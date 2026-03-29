@@ -1,0 +1,11 @@
+{
+  "materials": {
+    "id": "example:example_material_2",
+    "texture": "original/assets/textures/materials/example/example_2.png",
+    "displayName": "items.materials.example.example_material_2",
+    "description": "items.materials.example.example_material_2.desc",
+    "meta": {
+      "storeCategory": "original:materials"
+    }
+  }
+}

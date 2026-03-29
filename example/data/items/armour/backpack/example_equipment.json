@@ -1,0 +1,35 @@
+{
+  "armour": {
+    "id": "example:example_armor_1",
+    "displayName": "items.materials.example.example_armor_1",
+    "description": "items.materials.example.example_armor_1.desc",
+    "texture": "example/assets/armour/backpack/example_1.png",
+    "stats": {
+      "attack.base" : 9.2,
+      "attack.chance" : 0.5,
+      "attack.rating" : 0.5,
+      "defence.base" : 55.5,
+      "defence.chance" : 0.5,
+      "defence.rating" : 0.5,
+      "health" : 50,
+      "penetration.base" : 0.5,
+      "penetration.chance" : 0.5,
+      "penetration.rating" : 0.5,
+      "reflect.base" : 0.5,
+      "reflect.chance" : 0.5,
+      "reflect.rating" : 0.5,
+      "resistance.base" : 0.5,
+      "resistance.cold" : 0.5,
+      "resistance.gamma" : 0.5,
+      "resistance.heat" : 0.5,
+      "resistance.ion" : 0.5,
+      "resistance.physical" : 0.5,
+      "resistance.plasma" : 0.5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:accessory",
+      "storeCategory": "original:bag"
+    }
+  }
+}

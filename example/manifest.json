@@ -1,0 +1,97 @@
+{
+  "name": "original",
+  "version": "0.0.1",
+  "admin_item_list": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "admin.category.example.item_list.example_1"
+      },
+      "example:example_2": {
+        "displayName": "admin.category.example.item_list.example_2"
+      }
+    }
+  },
+  "admin_hostiles_list": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "admin.category.example.hostiles_list.example_1"
+      },
+      "example:example_2": {
+        "displayName": "admin.category.example.hostiles_list.example_2"
+      }
+    }
+  },
+  "admin_panel": {
+    "categories": {
+      "original:admin_hostiles_list": {
+        "displayName": "admin.category.original.hostile_list"
+      },
+      "original:admin_item_list": {
+        "displayName": "admin.category.original.item_list"
+      },
+      "original:admin_player_list": {
+        "displayName": "admin.category.original.player_list"
+      }
+    }
+  },
+  "admin_player_list": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "admin.category.example.player_list.example_1"
+      },
+      "example:example_2": {
+        "displayName": "admin.category.example.player_list.example_2"
+      }
+    }
+  },
+  "admin_role": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "admin.category.example.admin_role.example_1"
+      },
+      "example:example_2": {
+        "displayName": "admin.category.example.admin_role.example_2"
+      }
+    }
+  },
+  "core_systems": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "core_systems.category.example.core_systems.example_1"
+      },
+      "example:example_2": {
+        "displayName": "core_systems.category.example.core_systems.example_2"
+      }
+    }
+  },
+  "recipes": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "recipes.category.example.recipes.example_1"
+      },
+      "example:example_2": {
+        "displayName": "recipes.category.example.recipes.example_2"
+      }
+    }
+  },
+  "shop": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "shop.category.example.shop.example_1"
+      },
+      "example:example_2": {
+        "displayName": "shop.category.example.shop.example_2"
+      }
+    }
+  },
+  "skills": {
+    "categories": {
+      "example:example_1": {
+        "displayName": "skills.category.example.skills.example_1"
+      },
+      "example:example_2": {
+        "displayName": "skills.category.example.skills.example_2"
+      }
+    }
+  }
+}

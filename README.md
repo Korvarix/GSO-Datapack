@@ -1,2 +1,52 @@
-# GSO-Datapack
-This is a template setup for your datapack to be able to be created
+# Galaxy Strike Online Official Example Datapack
+## - File Structure
+### Manditory
+    - datapackId
+        - assets
+            - languages
+                - *.json
+            - textures
+                - *.json
+       - data
+            - dungeons
+                    - *.json
+            - enemies
+                - hostiles
+                    - *.json
+                - rooms
+                    - *.json
+            - items
+                - *.json
+            - recipes
+                - *.json
+            - skills
+                - *.json
+            - manifest.json
+### Optional
+    - datapackId
+        - assets
+            - languages
+                - *.json
+            - textures
+                -  folderforsorting(Optional)
+                    - *.json
+       - data
+            - dungeons
+                -  folderforsorting(Optional)
+                    - *.json
+            - enemies
+                - hostiles
+                    -  folderforsorting(Optional)
+                        - *.json
+                - rooms
+                    -  folderforsorting(Optional)
+                        - *.json
+            - items
+                -  folderforsorting(Optional)
+                    - *.json
+            - recipes
+                -  folderforsorting(Optional)
+                    - *.json
+            - skills
+                -  folderforsorting(Optional)
+                    - *.json

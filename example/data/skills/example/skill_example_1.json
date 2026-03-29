@@ -1,0 +1,15 @@
+{
+  "skills": {
+    "id": "example:skill_example_1",
+    "displayName": "skills.category.original.example.skill_example_1",
+    "description": "skills.category.original.example.skill_example_1.desc",
+    "meta": {
+      "category": "example_1",
+      "topLevel": 10,
+      "math": {
+        "start": 50,
+        "input": 1.1
+      }
+    }
+  }
+}

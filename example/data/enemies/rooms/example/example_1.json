@@ -1,0 +1,8 @@
+{
+  "rooms": {
+    "id": "example:example/example_1",
+    "hostiles": ["example:example/example_2"],
+    "gainXp": 4,
+    "credits": 200
+  }
+}
