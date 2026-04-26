@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:gen3_fission_reactor",
+    "displayName": "items.ship.original.engine.gen3_fission_reactor",
+    "description": "items.ship.original.engine.gen3_fission_reactor.desc",
+    "texture": "original/assets/textures/equipment/ship/engine/gen3_fission_reactor.png",
+    "stats": {
+      "defence.rate": 0.1,
+      "health": 40,
+      "resistance.base": 0.05
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:engine_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
