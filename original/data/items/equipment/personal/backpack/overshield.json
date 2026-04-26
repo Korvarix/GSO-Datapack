@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:overshield",
+    "displayName": "items.personal.original.backpack.overshield",
+    "description": "items.personal.original.backpack.overshield.desc",
+    "texture": "original/assets/textures/equipment/personal/backpack/overshield.png",
+    "stats": {
+      "health": 35,
+      "reflect.chance": 0.1,
+      "resistance.base": 0.1
+    },
+    "meta": {
+      "rarity": "uncommon",
+      "equipmentSlot": "original:backpack",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

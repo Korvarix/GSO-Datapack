@@ -1,0 +1,22 @@
+{
+  "plating": {
+    "id": "original:basic_suit",
+    "displayName": "items.personal.original.weapon.basic_suit",
+    "description": "items.personal.original.weapon.basic_suit.desc",
+    "texture": "original/assets/textures/equipment/personal/weapon/basic_suit.png",
+    "stats": {
+      "attack.base": 20
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:weapon",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
