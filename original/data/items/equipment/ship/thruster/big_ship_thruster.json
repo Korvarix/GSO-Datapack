@@ -1,6 +1,6 @@
 {
   "plating": {
-    "id": "original:Big_ship_thruster",
+    "id": "original:big_ship_thruster",
     "displayName": "items.materials.original.ship.thruster.big_ship_thruster",
     "description": "items.materials.original.ship.thruster.big_ship_thruster.desc",
     "texture": "original/assets/textures/equipement/ship/thrusters/big_ship_thruster.png",
