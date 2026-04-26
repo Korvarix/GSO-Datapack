@@ -162,9 +162,6 @@
       },
       "original:gadgets_consumables": {
         "displayName": "recipes.category.original.gadgets_consumables"
-      },
-      "original:material.composites": {
-        "displayName": "recipes.category.original.material.composites"
       }
     }
   },
