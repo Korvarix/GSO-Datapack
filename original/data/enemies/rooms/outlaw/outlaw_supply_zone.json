@@ -1,0 +1,14 @@
+{
+  "room": {
+    "id": "original:outlaw/outlaw_supply_zone",
+    "displayName": "rooms.original.outlaw.outlaw_supply_zone",
+    "description": "rooms.original.outlaw.outlaw_supply_zone.desc",
+    "hostiles": [],
+    "gainXp": 5,
+    "credits": 800,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

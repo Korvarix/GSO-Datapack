@@ -1,0 +1,17 @@
+{
+  "room": {
+    "id": "original:outlaw/outlaw_ambush_zone",
+    "displayName": "rooms.original.outlaw.outlaw_ambush_zone",
+    "description": "rooms.original.outlaw.outlaw_ambush_zone.desc",
+    "hostiles": [
+      "original:outlaw/raider_frigate",
+      "original:outlaw/raider_frigate"
+    ],
+    "gainXp": 25,
+    "credits": 400,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

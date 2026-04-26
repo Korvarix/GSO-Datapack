@@ -1,0 +1,17 @@
+{
+  "room": {
+    "id": "original:outlaw/outlaw_patrol_room",
+    "displayName": "rooms.original.outlaw.outlaw_patrol_room",
+    "description": "rooms.original.outlaw.outlaw_patrol_room.desc",
+    "hostiles": [
+      "original:outlaw/scout_drone",
+      "original:outlaw/scout_drone"
+    ],
+    "gainXp": 8,
+    "credits": 120,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

@@ -1,15 +1,15 @@
 {
   "hostile": {
-    "id": "original:pirate/scout_drone",
-    "displayName": "enemies.original.pirate.scout_drone",
-    "description": "enemies.original.pirate.scout_drone.desc",
-    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "id": "original:outlaw/raider_frigate",
+    "displayName": "enemies.original.outlaw.raider_frigate",
+    "description": "enemies.original.outlaw.raider_frigate.desc",
+    "texture": "mypack/assets/textures/enemies/outlaws/raider_frigate.png",
     "stats": {
-      "health": 25,
-      "defense": 1,
-      "critical.chance": 0.05,
+      "health": 210,
+      "defense": 1.5,
+      "critical.chance": 0.2,
       "attack.rate": 1,
-      "damage.base": 5,
+      "damage.base": 8,
       "damage.cold": 0,
       "damage.gamma": 0,
       "damage.heat": 0,
@@ -27,10 +27,10 @@
     "loot": [
       {
         "id": "original:ore_iron",
-        "chance": 0.5,
+        "chance": 1,
         "count": {
           "min": 1,
-          "max": 1
+          "max": 2
         }
       }
     ],

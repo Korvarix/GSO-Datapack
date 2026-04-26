@@ -1,9 +1,9 @@
 {
   "hostile": {
-    "id": "original:pirate/corvid_corvette",
-    "displayName": "enemies.original.pirate.corvid_corvette",
-    "description": "enemies.original.pirate.corvid_corvette.desc",
-    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "id": "original:outlaw/corvid_corvette",
+    "displayName": "enemies.original.outlaw.corvid_corvette",
+    "description": "enemies.original.outlaw.corvid_corvette.desc",
+    "texture": "mypack/assets/textures/enemies/outlaws/raider_frigate.png",
     "stats": {
       "health": 100,
       "defense": 0.1,

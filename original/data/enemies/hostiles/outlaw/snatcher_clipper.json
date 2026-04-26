@@ -1,9 +1,9 @@
 {
   "hostile": {
-    "id": "original:pirate/snatcher_clipper",
-    "displayName": "enemies.original.pirate.snatcher_clipper",
-    "description": "enemies.original.pirate.snatcher_clipper.desc",
-    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "id": "original:outlaw/snatcher_clipper",
+    "displayName": "enemies.original.outlaw.snatcher_clipper",
+    "description": "enemies.original.outlaw.snatcher_clipper.desc",
+    "texture": "mypack/assets/textures/enemies/outlaws/raider_frigate.png",
     "stats": {
       "health": 100,
       "defense": 0.5,
