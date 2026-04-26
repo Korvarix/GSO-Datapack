@@ -1,0 +1,16 @@
+{
+  "room": {
+    "id": "original:pirate/pirate_boss_bridge",
+    "displayName": "rooms.original.pirate.pirate_boss_bridge",
+    "description": "rooms.original.pirate.pirate_boss_bridge.desc",
+    "hostiles": [
+      "original:pirate/black_mark_cruiser"
+    ],
+    "gainXp": 100,
+    "credits": 2500,
+    "loot": [],
+    "meta": {
+      "isBossRoom": true
+    }
+  }
+}

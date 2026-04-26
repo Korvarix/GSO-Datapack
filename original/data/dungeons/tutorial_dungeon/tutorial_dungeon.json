@@ -1,0 +1,23 @@
+{
+  "dungeon": {
+    "id": "original:tutorial_dungeon",
+    "displayName": "dungeons.original.tutorial_dungeon",
+    "description": "dungeons.original.tutorial_dungeon.desc",
+    "meta": {
+      "energyCost": 5,
+      "repeatable": true,
+      "raid": false
+    },
+    "rooms": [
+      {
+        "id": "original:tutorial/tutorial_enemy_room"
+      },
+      {
+        "id": "original:tutorial/tutorial_loot_room"
+      },
+      {
+        "id": "original:tutorial/tutorial_boss_room"
+      }
+    ]
+  }
+}

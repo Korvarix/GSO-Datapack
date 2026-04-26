@@ -1,0 +1,17 @@
+{
+  "room": {
+    "id": "original:tutorial/tutorial_enemy_room",
+    "displayName": "rooms.original.tutorial.tutorial_enemy_room",
+    "description": "rooms.original.tutorial.tutorial_enemy_room.desc",
+    "hostiles": [
+      "original:tutorial/hostile",
+      "original:tutorial/hostile"
+    ],
+    "gainXp": 3,
+    "credits": 30,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "room": {
+    "id": "original:tutorial/tutorial_loot_room",
+    "displayName": "rooms.original.tutorial.tutorial_loot_room",
+    "description": "rooms.original.tutorial.tutorial_loot_room.desc",
+    "hostiles": [],
+    "gainXp": 0,
+    "credits": 100,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

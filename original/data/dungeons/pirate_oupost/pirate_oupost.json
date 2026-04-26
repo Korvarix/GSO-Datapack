@@ -1,0 +1,26 @@
+{
+  "dungeon": {
+    "id": "original:pirate_oupost",
+    "displayName": "dungeons.original.pirate_oupost",
+    "description": "dungeons.original.pirate_oupost.desc",
+    "meta": {
+      "energyCost": 10,
+      "repeatable": true,
+      "raid": false
+    },
+    "rooms": [
+      {
+        "id": "original:pirate/pirate_patrol_room"
+      },
+      {
+        "id": "original:pirate/pirate_supply_zone"
+      },
+      {
+        "id": "original:pirate/pirate_ambush_zone"
+      },
+      {
+        "id": "original:pirate/pirate_boss_bridge"
+      }
+    ]
+  }
+}
