@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:alloy_steel",
+    "texture": "original/assets/textures/materials/alloy/alloy_steel.png",
+    "displayName": "items.materials.original.alloys.alloy_steel",
+    "description": "items.materials.original.alloys.alloy_steel.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

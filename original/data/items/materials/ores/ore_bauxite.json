@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ore_bauxite",
+    "texture": "original/assets/textures/materials/ore/ore_bauxite.png",
+    "displayName": "items.materials.original.ores.ore_bauxite",
+    "description": "items.materials.original.ores.ore_bauxite.desc",
+    "meta": {
+      "storeCategory": "original:ores",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

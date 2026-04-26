@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_gold",
+    "texture": "original/assets/textures/materials/ingot/ingot_gold.png",
+    "displayName": "items.materials.original.ingots.ingot_gold",
+    "description": "items.materials.original.ingots.ingot_gold.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 1000,
+      "storeSellValue": 100,
+      "storeShowWeight": 5,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

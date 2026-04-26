@@ -1,0 +1,47 @@
+{
+  "hostile": {
+    "id": "original:pirate/snatcher_clipper",
+    "displayName": "enemies.original.pirate.snatcher_clipper",
+    "description": "enemies.original.pirate.snatcher_clipper.desc",
+    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "stats": {
+      "health": 100,
+      "defense": 0.5,
+      "critical.chance": 0.5,
+      "attack.rate": 3,
+      "damage.base": 0,
+      "damage.cold": 0,
+      "damage.gamma": 0,
+      "damage.heat": 0,
+      "damage.ion": 0,
+      "damage.physical": 5,
+      "damage.plasma": 0,
+      "resistance.base": 0,
+      "resistance.cold": 0,
+      "resistance.gamma": 0,
+      "resistance.heat": -0.1,
+      "resistance.ion": -0.25,
+      "resistance.physical": 0,
+      "resistance.plasma": 0
+    },
+    "loot": [
+      {
+        "id": "original:ore_copper",
+        "chance": 1,
+        "count": {
+          "min": 1,
+          "max": 1
+        }
+      },
+      {
+        "id": "original:big_ship_thruster",
+        "chance": 0.25,
+        "count": {
+          "min": 1,
+          "max": 1
+        }
+      }
+    ],
+    "meta": {}
+  }
+}

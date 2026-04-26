@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ore_copper",
+    "texture": "original/assets/textures/materials/ore/ore_copper.png",
+    "displayName": "items.materials.original.ores.ore_copper",
+    "description": "items.materials.original.ores.ore_copper.desc",
+    "meta": {
+      "storeCategory": "original:ores",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

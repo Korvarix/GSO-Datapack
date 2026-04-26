@@ -1,0 +1,39 @@
+{
+  "hostile": {
+    "id": "original:pirate/raider_frigate",
+    "displayName": "enemies.original.pirate.raider_frigate",
+    "description": "enemies.original.pirate.raider_frigate.desc",
+    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "stats": {
+      "health": 210,
+      "defense": 1.5,
+      "critical.chance": 0.2,
+      "attack.rate": 1,
+      "damage.base": 8,
+      "damage.cold": 0,
+      "damage.gamma": 0,
+      "damage.heat": 0,
+      "damage.ion": 0,
+      "damage.physical": 0,
+      "damage.plasma": 0,
+      "resistance.base": 0,
+      "resistance.cold": 0,
+      "resistance.gamma": 0,
+      "resistance.heat": 0,
+      "resistance.ion": 0,
+      "resistance.physical": 0,
+      "resistance.plasma": 0
+    },
+    "loot": [
+      {
+        "id": "original:ore_iron",
+        "chance": 1,
+        "count": {
+          "min": 1,
+          "max": 2
+        }
+      }
+    ],
+    "meta": {}
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "name": "original",
+  "version": "1.0.0",
+  "admin_item_list": {
+    "categories": {}
+  },
+  "admin_hostiles_list": {
+    "categories": {}
+  },
+  "admin_player_list": {
+    "categories": {}
+  },
+  "admin_role": {
+    "categories": {}
+  },
+  "core_systems": {
+    "categories": {
+      "original:helmet": {
+        "displayName": "core_systems.category.original.helmet",
+        "slotType": "personal"
+      },
+      "original:suit": {
+        "displayName": "core_systems.category.original.suit",
+        "slotType": "personal"
+      },
+      "original:gloves": {
+        "displayName": "core_systems.category.original.gloves",
+        "slotType": "personal"
+      },
+      "original:backpack": {
+        "displayName": "core_systems.category.original.backpack",
+        "slotType": "personal"
+      },
+      "original:boots": {
+        "displayName": "core_systems.category.original.boots",
+        "slotType": "personal"
+      },
+      "original:accessory_1": {
+        "displayName": "core_systems.category.original.accessory_1",
+        "slotType": "personal"
+      },
+      "original:accessory_2": {
+        "displayName": "core_systems.category.original.accessory_2",
+        "slotType": "personal"
+      },
+      "original:accessory_3": {
+        "displayName": "core_systems.category.original.accessory_3",
+        "slotType": "personal"
+      },
+      "original:accessory_4": {
+        "displayName": "core_systems.category.original.accessory_4",
+        "slotType": "personal"
+      },
+      "original:weapon": {
+        "displayName": "core_systems.category.original.weapon",
+        "slotType": "personal"
+      },
+      "original:hull_1": {
+        "displayName": "core_systems.category.original.hull_1",
+        "slotType": "ship"
+      },
+      "original:hull_2": {
+        "displayName": "core_systems.category.original.hull_2",
+        "slotType": "ship"
+      },
+      "original:hull_3": {
+        "displayName": "core_systems.category.original.hull_3",
+        "slotType": "ship"
+      },
+      "original:shields": {
+        "displayName": "core_systems.category.original.shields",
+        "slotType": "ship"
+      },
+      "original:engine_1": {
+        "displayName": "core_systems.category.original.engine_1",
+        "slotType": "ship"
+      },
+      "original:engine_2": {
+        "displayName": "core_systems.category.original.engine_2",
+        "slotType": "ship"
+      },
+      "original:weapon_1": {
+        "displayName": "core_systems.category.original.weapon_1",
+        "slotType": "ship"
+      },
+      "original:weapon_2": {
+        "displayName": "core_systems.category.original.weapon_2",
+        "slotType": "ship"
+      },
+      "original:weapon_3": {
+        "displayName": "core_systems.category.original.weapon_3",
+        "slotType": "ship"
+      },
+      "original:weapon_4": {
+        "displayName": "core_systems.category.original.weapon_4",
+        "slotType": "ship"
+      },
+      "original:thruster_1": {
+        "displayName": "core_systems.category.original.thruster_1",
+        "slotType": "ship"
+      },
+      "original:thruster_2": {
+        "displayName": "core_systems.category.original.thruster_2",
+        "slotType": "ship"
+      },
+      "original:thruster_3": {
+        "displayName": "core_systems.category.original.thruster_3",
+        "slotType": "ship"
+      },
+      "original:thruster_4": {
+        "displayName": "core_systems.category.original.thruster_4",
+        "slotType": "ship"
+      }
+    }
+  },
+  "quests": {
+    "categories": {}
+  },
+  "recipes": {
+    "categories": {
+      "original:hull_sections": {
+        "displayName": "recipes.category.original.hull_sections"
+      },
+      "original:hulls": {
+        "displayName": "recipes.category.original.hulls"
+      },
+      "original:organics": {
+        "displayName": "recipes.category.original.organics"
+      },
+      "original:personal_equipment_helmet": {
+        "displayName": "recipes.category.original.personal_equipment_helmet"
+      },
+      "original:personal_equipment_suit": {
+        "displayName": "recipes.category.original.personal_equipment_suit"
+      },
+      "original:personal_equipment_gloves": {
+        "displayName": "recipes.category.original.personal_equipment_gloves"
+      },
+      "original:personal_equipment_backpack": {
+        "displayName": "recipes.category.original.personal_equipment_backpack"
+      },
+      "original:personal_equipment_boots": {
+        "displayName": "recipes.category.original.personal_equipment_boots"
+      },
+      "original:personal_equipment_accessories": {
+        "displayName": "recipes.category.original.personal_equipment_accessories"
+      },
+      "original:personal_equipment_weapons": {
+        "displayName": "recipes.category.original.personal_equipment_weapons"
+      },
+      "original:ship_equipment_shields": {
+        "displayName": "recipes.category.original.ship_equipment_shields"
+      },
+      "original:ship_equipment_engines": {
+        "displayName": "recipes.category.original.ship_equipment_engines"
+      },
+      "original:ship_equipment_weapons": {
+        "displayName": "recipes.category.original.ship_equipment_weapons"
+      },
+      "original:ship_equipment_thrusters": {
+        "displayName": "recipes.category.original.ship_equipment_thrusters"
+      },
+      "original:gadgets_consumables": {
+        "displayName": "recipes.category.original.gadgets_consumables"
+      }
+    }
+  },
+  "shop": {
+    "categories": {
+      "original:featured": {
+        "displayName": "shop.category.original.featured"
+      },
+      "original:ships": {
+        "displayName": "shop.category.original.ships"
+      },
+      "original:personal_equipment": {
+        "displayName": "shop.category.original.personal_equipment"
+      },
+      "original:ship_equipment": {
+        "displayName": "shop.category.original.ship_equipment"
+      },
+      "original:consumables": {
+        "displayName": "shop.category.original.consumables"
+      },
+      "original:materials": {
+        "displayName": "shop.category.original.materials"
+      },
+      "original:premium": {
+        "displayName": "shop.category.original.premium"
+      }
+    }
+  },
+  "skills": {
+    "categories": {}
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:Scandium",
+    "texture": "mypack/assets/textures/materials/ore/iron.png",
+    "displayName": "items.materials.original.ores.Scandium",
+    "description": "items.materials.original.ores.Scandium.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

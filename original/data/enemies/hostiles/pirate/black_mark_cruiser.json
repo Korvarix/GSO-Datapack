@@ -1,0 +1,30 @@
+{
+  "hostile": {
+    "id": "original:pirate/black_mark_cruiser",
+    "displayName": "enemies.original.pirate.black_mark_cruiser",
+    "description": "enemies.original.pirate.black_mark_cruiser.desc",
+    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "stats": {
+      "health": 850,
+      "defense": 5,
+      "critical.chance": 0.15,
+      "attack.rate": 0.6,
+      "damage.base": 8,
+      "damage.cold": 0,
+      "damage.gamma": 0,
+      "damage.heat": 0,
+      "damage.ion": 0,
+      "damage.physical": 10,
+      "damage.plasma": 0,
+      "resistance.base": 0.1,
+      "resistance.cold": 0,
+      "resistance.gamma": 0,
+      "resistance.heat": 0,
+      "resistance.ion": 0,
+      "resistance.physical": 0,
+      "resistance.plasma": 0
+    },
+    "loot": [],
+    "meta": {}
+  }
+}
