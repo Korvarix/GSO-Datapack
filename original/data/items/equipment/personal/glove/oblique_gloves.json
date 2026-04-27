@@ -5,9 +5,11 @@
     "description": "items.personal.original.glove.oblique_gloves.desc",
     "texture": "original/assets/textures/equipment/personal/glove/oblique_gloves.png",
     "stats": {
-      "attack.base": 0,
-      "penetration.rate": 0,
-      "reflect.rate": 0
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.gamma": 0.5,
+      "resistance.ion": 0.5,
+      "resistance.plasma": 0.5
     },
     "meta": {
       "rarity": "common",

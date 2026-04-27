@@ -5,9 +5,11 @@
     "description": "items.personal.original.glove.metallic_gloves.desc",
     "texture": "original/assets/textures/equipment/personal/glove/metallic_gloves.png",
     "stats": {
-      "attack.base": 0,
-      "penetration.rate": 0,
-      "reflect.rate": 0
+      "defence.base": 0.5,
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.base": 0.25,
+      "resistance.physical": 0.25
     },
     "meta": {
       "rarity": "common",

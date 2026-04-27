@@ -5,9 +5,10 @@
     "description": "items.personal.original.glove.nano_gloves.desc",
     "texture": "original/assets/textures/equipment/personal/glove/nano_gloves.png",
     "stats": {
-      "attack.base": 0,
-      "penetration.rate": 0,
-      "reflect.rate": 0
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.cold": 0.5,
+      "resistance.heat": 0.5
     },
     "meta": {
       "rarity": "common",

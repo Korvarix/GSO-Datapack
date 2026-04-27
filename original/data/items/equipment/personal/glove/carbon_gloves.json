@@ -5,9 +5,10 @@
     "description": "items.personal.original.glove.carbon_gloves.desc",
     "texture": "original/assets/textures/equipment/personal/glove/carbon_gloves.png",
     "stats": {
-      "attack.base": 0,
-      "penetration.rate": 0,
-      "reflect.rate": 0
+      "attack.chance": 0.5,
+      "defence.chance": 0.5,
+      "defence.rate": 1.5,
+      "health": 5
     },
     "meta": {
       "rarity": "common",
