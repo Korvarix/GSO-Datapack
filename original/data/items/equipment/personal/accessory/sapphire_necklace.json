@@ -5,10 +5,9 @@
     "description": "items.personal.original.accessory.sapphire_necklace.desc",
     "texture": "original/assets/textures/equipment/personal/accessory/sapphire_necklace.png",
     "stats": {
-      "attack.base": 0,
-      "attack.rate": 0,
-      "penetration.base": 0,
-      "reflect.rate": 0
+      "health": 5,
+      "resistance.base": 1,
+      "resistance.gamma": 1
     },
     "meta": {
       "rarity": "common",

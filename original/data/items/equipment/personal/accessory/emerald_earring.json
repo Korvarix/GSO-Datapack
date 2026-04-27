@@ -5,14 +5,18 @@
     "description": "items.personal.original.accessory.emerald_earring.desc",
     "texture": "original/assets/textures/equipment/personal/accessory/emerald_earring.png",
     "stats": {
-      "attack.base": 0,
-      "attack.rate": 0,
-      "penetration.base": 0,
-      "reflect.rate": 0
+      "attack.rate": 1,
+      "health": 5,
+      "resistance.plasma": 1
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:accessory_1",
+      "equipmentSlot": [
+        "original:personal_accessory_1",
+        "original:personal_accessory_2",
+        "original:personal_accessory_3",
+        "original:personal_accessory_4"
+      ],
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,
