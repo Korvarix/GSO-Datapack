@@ -1,0 +1,30 @@
+{
+  "hostile": {
+    "id": "original:xeno/xeno_stalker",
+    "displayName": "enemies.original.xeno.xeno_stalker",
+    "description": "enemies.original.xeno.xeno_stalker.desc",
+    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "stats": {
+      "health": 45,
+      "defense": 5,
+      "critical.chance": 0.2,
+      "attack.rate": 1,
+      "damage.base": 6,
+      "damage.cold": 0,
+      "damage.gamma": 0,
+      "damage.heat": 0,
+      "damage.ion": 0,
+      "damage.physical": 0,
+      "damage.plasma": 0,
+      "resistance.base": 0,
+      "resistance.cold": 0,
+      "resistance.gamma": 0,
+      "resistance.heat": 0,
+      "resistance.ion": 0,
+      "resistance.physical": 0,
+      "resistance.plasma": 0
+    },
+    "loot": [],
+    "meta": {}
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "hostile": {
+    "id": "original:xeno/xeno_slaver",
+    "displayName": "enemies.original.xeno.xeno_slaver",
+    "description": "enemies.original.xeno.xeno_slaver.desc",
+    "texture": "mypack/assets/textures/enemies/pirates/raider_frigate.png",
+    "stats": {
+      "health": 70,
+      "defense": 6,
+      "critical.chance": 0.2,
+      "attack.rate": 1,
+      "damage.base": 9,
+      "damage.cold": 0,
+      "damage.gamma": 0,
+      "damage.heat": 0,
+      "damage.ion": 0,
+      "damage.physical": 0,
+      "damage.plasma": 0,
+      "resistance.base": 0,
+      "resistance.cold": 0,
+      "resistance.gamma": 0,
+      "resistance.heat": 0,
+      "resistance.ion": 0,
+      "resistance.physical": 0,
+      "resistance.plasma": 0
+    },
+    "loot": [],
+    "meta": {}
+  }
+}
