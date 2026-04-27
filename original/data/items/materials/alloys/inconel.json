@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:inconel",
+    "texture": "original/assets/textures/materials/alloy/inconel.png",
+    "displayName": "items.materials.original.alloys.inconel",
+    "description": "items.materials.original.alloys.inconel.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
