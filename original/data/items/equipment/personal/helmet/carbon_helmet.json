@@ -5,8 +5,10 @@
     "description": "items.personal.original.helmet.Carbon_helmet.desc",
     "texture": "original/assets/textures/equipment/personal/helmet/Carbon_helmet.png",
     "stats": {
-      "resistance.ion": 0,
-      "resistance.plasma": 0
+      "attack.chance": 0.5,
+      "defence.chance": 0.5,
+      "defence.rate": 1.5,
+      "health": 5
     },
     "meta": {
       "rarity": "common",

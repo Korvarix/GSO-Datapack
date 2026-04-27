@@ -5,8 +5,11 @@
     "description": "items.personal.original.helmet.oblique_helmet.desc",
     "texture": "original/assets/textures/equipment/personal/helmet/oblique_helmet.png",
     "stats": {
-      "resistance.ion": 0,
-      "resistance.plasma": 0
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.gamma": 0.5,
+      "resistance.ion": 0.5,
+      "resistance.plasma": 0.5
     },
     "meta": {
       "rarity": "common",

@@ -5,8 +5,11 @@
     "description": "items.personal.original.helmet.metallic_helmet.desc",
     "texture": "original/assets/textures/equipment/personal/helmet/metallic_helmet.png",
     "stats": {
-      "resistance.ion": 0,
-      "resistance.plasma": 0
+      "defence.base": 0.5,
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.base": 0.25,
+      "resistance.physical": 0.25
     },
     "meta": {
       "rarity": "common",
