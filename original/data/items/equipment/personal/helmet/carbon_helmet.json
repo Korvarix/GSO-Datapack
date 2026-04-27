@@ -1,9 +1,9 @@
 {
   "plating": {
-    "id": "original:Carbon_helmet",
-    "displayName": "items.personal.original.helmet.Carbon_helmet",
-    "description": "items.personal.original.helmet.Carbon_helmet.desc",
-    "texture": "original/assets/textures/equipment/personal/helmet/Carbon_helmet.png",
+    "id": "original:carbon_helmet",
+    "displayName": "items.personal.original.helmet.carbon_helmet",
+    "description": "items.personal.original.helmet.carbon_helmet.desc",
+    "texture": "original/assets/textures/equipment/personal/helmet/carbon_helmet.png",
     "stats": {
       "attack.chance": 0.5,
       "defence.chance": 0.5,
