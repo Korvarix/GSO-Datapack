@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:sapphire",
+    "texture": "original/assets/textures/materials/crystal/sapphire.png",
+    "displayName": "items.materials.original.crystals.sapphire",
+    "description": "items.materials.original.crystals.sapphire.desc",
+    "meta": {
+      "storeCategory": "original:crystal",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

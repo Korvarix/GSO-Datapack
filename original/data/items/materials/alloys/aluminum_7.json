@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:aluminum_7",
+    "texture": "original/assets/textures/materials/alloy/aluminum_7.png",
+    "displayName": "items.materials.original.alloys.aluminum_7",
+    "description": "items.materials.original.alloys.aluminum_7.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

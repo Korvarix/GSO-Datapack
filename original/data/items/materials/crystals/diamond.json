@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:diamond",
+    "texture": "original/assets/textures/materials/crystal/diamond.png",
+    "displayName": "items.materials.original.crystals.diamond",
+    "description": "items.materials.original.crystals.diamond.desc",
+    "meta": {
+      "storeCategory": "original:crystal",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

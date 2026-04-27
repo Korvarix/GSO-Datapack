@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:stellite",
+    "texture": "original/assets/textures/materials/alloy/stellite.png",
+    "displayName": "items.materials.original.alloys.stellite",
+    "description": "items.materials.original.alloys.stellite.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ruby",
+    "texture": "original/assets/textures/materials/crystal/ruby.png",
+    "displayName": "items.materials.original.crystals.ruby",
+    "description": "items.materials.original.crystals.ruby.desc",
+    "meta": {
+      "storeCategory": "original:crystal",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

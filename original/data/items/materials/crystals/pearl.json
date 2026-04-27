@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:pearl",
+    "texture": "original/assets/textures/materials/crystal/pearl.png",
+    "displayName": "items.materials.original.crystals.pearl",
+    "description": "items.materials.original.crystals.pearl.desc",
+    "meta": {
+      "storeCategory": "original:crystal",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:aluminum_lithium",
+    "texture": "original/assets/textures/materials/alloy/aluminum_lithium.png",
+    "displayName": "items.materials.original.alloys.aluminum_lithium",
+    "description": "items.materials.original.alloys.aluminum_lithium.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

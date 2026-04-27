@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:titanium_tav",
+    "texture": "original/assets/textures/materials/alloy/titanium_tav.png",
+    "displayName": "items.materials.original.alloys.titanium_tav",
+    "description": "items.materials.original.alloys.titanium_tav.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

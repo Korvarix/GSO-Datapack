@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:stain_steel_2",
+    "texture": "original/assets/textures/materials/alloy/stain_steel_2.png",
+    "displayName": "items.materials.original.alloys.stain_steel_2",
+    "description": "items.materials.original.alloys.stain_steel_2.desc",
+    "meta": {
+      "storeCategory": "original:alloys",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
