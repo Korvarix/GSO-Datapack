@@ -1,0 +1,18 @@
+{
+  "room": {
+    "id": "original:outlaw/foyer",
+    "displayName": "rooms.original.outlaw.foyer",
+    "description": "rooms.original.outlaw.foyer.desc",
+    "hostiles": [
+      "original:outlaw/outlaw_soldier",
+      "original:outlaw/outlaw_lieutenant",
+      "original:outlaw/outlaw_lieutenant"
+    ],
+    "gainXp": 25,
+    "credits": 400,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

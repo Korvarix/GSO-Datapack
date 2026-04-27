@@ -1,0 +1,17 @@
+{
+  "room": {
+    "id": "original:xeno/deadspace",
+    "displayName": "rooms.original.xeno.deadspace",
+    "description": "rooms.original.xeno.deadspace.desc",
+    "hostiles": [
+      "original:xeno/xeno_hunter_vessle",
+      "original:xeno/xeno_hunter_vessle"
+    ],
+    "gainXp": 25,
+    "credits": 400,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

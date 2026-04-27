@@ -1,0 +1,16 @@
+{
+  "room": {
+    "id": "original:xeno/swarm",
+    "displayName": "rooms.original.xeno.swarm",
+    "description": "rooms.original.xeno.swarm.desc",
+    "hostiles": [
+      "original:xeno/xeno_infestaion_capsule"
+    ],
+    "gainXp": 35,
+    "credits": 1500,
+    "loot": [],
+    "meta": {
+      "isBossRoom": true
+    }
+  }
+}

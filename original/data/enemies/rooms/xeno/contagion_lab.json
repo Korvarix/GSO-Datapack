@@ -1,0 +1,18 @@
+{
+  "room": {
+    "id": "original:xeno/contagion_lab",
+    "displayName": "rooms.original.xeno.contagion_lab",
+    "description": "rooms.original.xeno.contagion_lab.desc",
+    "hostiles": [
+      "original:xeno/xeno_scout",
+      "original:xeno/xeno_hunter_vessle",
+      "original:xeno/xeno_scout"
+    ],
+    "gainXp": 0,
+    "credits": 600,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

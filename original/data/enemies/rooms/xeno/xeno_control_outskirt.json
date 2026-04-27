@@ -1,0 +1,18 @@
+{
+  "room": {
+    "id": "original:xeno/xeno_control_outskirt",
+    "displayName": "rooms.original.xeno.xeno_control_outskirt",
+    "description": "rooms.original.xeno.xeno_control_outskirt.desc",
+    "hostiles": [
+      "original:xeno/xeno_scout",
+      "original:xeno/xeno_scout",
+      "original:xeno/xeno_scout"
+    ],
+    "gainXp": 10,
+    "credits": 200,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}

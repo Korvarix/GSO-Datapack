@@ -1,0 +1,18 @@
+{
+  "room": {
+    "id": "original:outlaw/ambush_room",
+    "displayName": "rooms.original.outlaw.ambush_room",
+    "description": "rooms.original.outlaw.ambush_room.desc",
+    "hostiles": [
+      "original:outlaw/outlaw_soldier",
+      "original:outlaw/outlaw_soldier",
+      "original:outlaw/outlaw_lieutenant"
+    ],
+    "gainXp": 25,
+    "credits": 400,
+    "loot": [],
+    "meta": {
+      "isBossRoom": false
+    }
+  }
+}
