@@ -5,13 +5,15 @@
     "description": "items.personal.original.suit.kevlar_suit.desc",
     "texture": "original/assets/textures/equipment/personal/suit/kevlar_suit.png",
     "stats": {
+      "defence.rate": 1.5,
+      "health": 10,
       "penetration.rate": 0,
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "resistance.base": 0.5,
+      "resistance.physical": 0.5
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:suit",
+      "equipmentSlot": "original:personal_suit",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

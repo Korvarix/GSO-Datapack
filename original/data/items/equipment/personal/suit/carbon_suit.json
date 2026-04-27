@@ -5,13 +5,14 @@
     "description": "items.personal.original.suit.carbon_suit.desc",
     "texture": "original/assets/textures/equipment/personal/suit/carbon_suit.png",
     "stats": {
-      "penetration.rate": 0,
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "attack.chance": 0.5,
+      "defence.chance": 0.5,
+      "defence.rate": 1.5,
+      "health": 10
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:suit",
+      "equipmentSlot": "original:personal_suit",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

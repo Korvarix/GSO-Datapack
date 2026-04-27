@@ -5,13 +5,14 @@
     "description": "items.personal.original.suit.nano_suit.desc",
     "texture": "original/assets/textures/equipment/personal/suit/nano_suit.png",
     "stats": {
-      "penetration.rate": 0,
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "defence.rate": 1.5,
+      "health": 10,
+      "resistance.cold": 0.5,
+      "resistance.heat": 0.5
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:suit",
+      "equipmentSlot": "original:personal_suit",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

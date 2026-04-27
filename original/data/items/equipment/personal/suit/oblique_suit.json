@@ -5,13 +5,15 @@
     "description": "items.personal.original.suit.oblique_suit.desc",
     "texture": "original/assets/textures/equipment/personal/suit/oblique_suit.png",
     "stats": {
-      "penetration.rate": 0,
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "defence.rate": 1.5,
+      "health": 10,
+      "resistance.gamma": 0.5,
+      "resistance.ion": 0.5,
+      "resistance.plasma": 0.5
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:suit",
+      "equipmentSlot": "original:personal_suit",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,
