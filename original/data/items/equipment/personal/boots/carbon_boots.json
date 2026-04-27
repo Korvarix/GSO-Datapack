@@ -1,0 +1,23 @@
+{
+  "plating": {
+    "id": "original:carbon_boots",
+    "displayName": "items.personal.original.boots.carbon_boots",
+    "description": "items.personal.original.boots.carbon_boots.desc",
+    "texture": "original/assets/textures/equipment/personal/boots/carbon_boots.png",
+    "stats": {
+      "reflect.rate": 0,
+      "resistance.plasma": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:boots",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

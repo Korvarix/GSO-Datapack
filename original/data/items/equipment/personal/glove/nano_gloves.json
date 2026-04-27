@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:nano_gloves",
+    "displayName": "items.personal.original.glove.nano_gloves",
+    "description": "items.personal.original.glove.nano_gloves.desc",
+    "texture": "original/assets/textures/equipment/personal/glove/nano_gloves.png",
+    "stats": {
+      "attack.base": 0,
+      "penetration.rate": 0,
+      "reflect.rate": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:gloves",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

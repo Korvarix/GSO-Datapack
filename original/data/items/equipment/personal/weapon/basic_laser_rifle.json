@@ -1,15 +1,15 @@
 {
   "plating": {
-    "id": "original:basic_suit",
-    "displayName": "items.personal.original.weapon.basic_suit",
-    "description": "items.personal.original.weapon.basic_suit.desc",
+    "id": "original:basic_laser_rifle",
+    "displayName": "items.personal.original.weapon.basic_laser_rifle",
+    "description": "items.personal.original.weapon.basic_laser_rifle.desc",
     "texture": "original/assets/textures/equipment/personal/weapon/basic_suit.png",
     "stats": {
       "attack.base": 20
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:weapon",
+      "equipmentSlot": "original:personal_weapons",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

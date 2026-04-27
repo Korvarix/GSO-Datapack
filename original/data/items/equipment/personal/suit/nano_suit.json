@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:nano_suit",
+    "displayName": "items.personal.original.suit.nano_suit",
+    "description": "items.personal.original.suit.nano_suit.desc",
+    "texture": "original/assets/textures/equipment/personal/suit/nano_suit.png",
+    "stats": {
+      "penetration.rate": 0,
+      "reflect.rate": 0,
+      "resistance.plasma": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:suit",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

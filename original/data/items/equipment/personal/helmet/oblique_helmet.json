@@ -1,0 +1,23 @@
+{
+  "plating": {
+    "id": "original:oblique_helmet",
+    "displayName": "items.personal.original.helmet.oblique_helmet",
+    "description": "items.personal.original.helmet.oblique_helmet.desc",
+    "texture": "original/assets/textures/equipment/personal/helmet/oblique_helmet.png",
+    "stats": {
+      "resistance.ion": 0,
+      "resistance.plasma": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:helmet",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
