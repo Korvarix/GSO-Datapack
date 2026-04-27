@@ -1,0 +1,26 @@
+{
+  "dungeon": {
+    "id": "original:xeno_controlled_space",
+    "displayName": "dungeons.original.xeno_controlled_space",
+    "description": "dungeons.original.xeno_controlled_space.desc",
+    "meta": {
+      "energyCost": 10,
+      "repeatable": true,
+      "raid": false
+    },
+    "rooms": [
+      {
+        "id": "original:xeno/xeno_control_outskirt"
+      },
+      {
+        "id": "original:xeno/contagion_lab"
+      },
+      {
+        "id": "original:xeno/deadspace"
+      },
+      {
+        "id": "original:xeno/swarm"
+      }
+    ]
+  }
+}

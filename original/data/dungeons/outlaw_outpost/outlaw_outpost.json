@@ -1,0 +1,29 @@
+{
+  "dungeon": {
+    "id": "original:outlaw_outpost",
+    "displayName": "dungeons.original.outlaw_outpost",
+    "description": "dungeons.original.outlaw_outpost.desc",
+    "meta": {
+      "energyCost": 10,
+      "repeatable": true,
+      "raid": false
+    },
+    "rooms": [
+      {
+        "id": "original:outlaw/outlaw_patrol_room"
+      },
+      {
+        "id": "original:outlaw/ambush_room"
+      },
+      {
+        "id": "original:outlaw/foyer"
+      },
+      {
+        "id": "original:outlaw/loot_hallway"
+      },
+      {
+        "id": "original:outlaw/boss_room"
+      }
+    ]
+  }
+}
