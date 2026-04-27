@@ -5,12 +5,16 @@
     "description": "items.personal.original.boots.carbon_boots.desc",
     "texture": "original/assets/textures/equipment/personal/boots/carbon_boots.png",
     "stats": {
+      "attack.chance": 0.5,
+      "defence.chance": 0.5,
+      "defence.rate": 1.5,
+      "health": 5,
       "reflect.rate": 0,
-      "resistance.plasma": 0
+      "resistance.base": 0
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:boots",
+      "equipmentSlot": "original:personal_boots",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

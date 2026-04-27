@@ -5,12 +5,15 @@
     "description": "items.personal.original.boots.metallic_boots.desc",
     "texture": "original/assets/textures/equipment/personal/boots/metallic_boots.png",
     "stats": {
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "defence.base": 0.5,
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.base": 0.25,
+      "resistance.physical": 0.25
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:boots",
+      "equipmentSlot": "original:personal_boots",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,

@@ -5,12 +5,15 @@
     "description": "items.personal.original.boots.oblique_boots.desc",
     "texture": "original/assets/textures/equipment/personal/boots/oblique_boots.png",
     "stats": {
-      "reflect.rate": 0,
-      "resistance.plasma": 0
+      "defence.rate": 1.5,
+      "health": 5,
+      "resistance.gamma": 0.5,
+      "resistance.ion": 0.5,
+      "resistance.plasma": 0.5
     },
     "meta": {
       "rarity": "common",
-      "equipmentSlot": "original:boots",
+      "equipmentSlot": "original:personal_boots",
       "storeCategory": "original:personal_equipment",
       "dungeon": "ground",
       "storePrice": 100,
