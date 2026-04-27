@@ -1,0 +1,25 @@
+{
+  "plating": {
+    "id": "original:ruby_necklace",
+    "displayName": "items.personal.original.accessory.ruby_necklace",
+    "description": "items.personal.original.accessory.ruby_necklace.desc",
+    "texture": "original/assets/textures/equipment/personal/accessory/ruby_necklace.png",
+    "stats": {
+      "attack.base": 0,
+      "attack.rate": 0,
+      "penetration.base": 0,
+      "reflect.rate": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:accessory_1",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

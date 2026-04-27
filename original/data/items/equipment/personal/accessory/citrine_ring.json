@@ -1,0 +1,25 @@
+{
+  "plating": {
+    "id": "original:citrine_ring",
+    "displayName": "items.personal.original.accessory.citrine_ring",
+    "description": "items.personal.original.accessory.citrine_ring.desc",
+    "texture": "original/assets/textures/equipment/personal/accessory/citrine_ring.png",
+    "stats": {
+      "attack.base": 0,
+      "attack.rate": 0,
+      "penetration.base": 0,
+      "reflect.rate": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:accessory_1",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

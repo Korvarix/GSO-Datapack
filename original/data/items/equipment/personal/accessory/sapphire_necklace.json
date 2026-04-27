@@ -1,0 +1,30 @@
+{
+  "plating": {
+    "id": "original:sapphire_necklace",
+    "displayName": "items.personal.original.accessory.sapphire_necklace",
+    "description": "items.personal.original.accessory.sapphire_necklace.desc",
+    "texture": "original/assets/textures/equipment/personal/accessory/sapphire_necklace.png",
+    "stats": {
+      "attack.base": 0,
+      "attack.rate": 0,
+      "penetration.base": 0,
+      "reflect.rate": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": [
+        "original:personal_accessory_1",
+        "original:personal_accessory_2",
+        "original:personal_accessory_3",
+        "original:personal_accessory_4"
+      ],
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

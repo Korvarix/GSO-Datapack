@@ -1,0 +1,25 @@
+{
+  "plating": {
+    "id": "original:sapphire_earring",
+    "displayName": "items.personal.original.accessory.sapphire_earring",
+    "description": "items.personal.original.accessory.sapphire_earring.desc",
+    "texture": "original/assets/textures/equipment/personal/accessory/sapphire_earring.png",
+    "stats": {
+      "attack.base": 0,
+      "attack.rate": 0,
+      "penetration.base": 0,
+      "reflect.rate": 0
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:accessory_1",
+      "storeCategory": "original:personal_equipment",
+      "dungeon": "ground",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
