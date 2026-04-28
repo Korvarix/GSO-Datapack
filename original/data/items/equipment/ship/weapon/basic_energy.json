@@ -1,0 +1,22 @@
+{
+  "plating": {
+    "id": "original:Basic_energy",
+    "displayName": "items.ship.original.weapon.Basic_energy",
+    "description": "items.ship.original.weapon.Basic_energy.desc",
+    "texture": "original/assets/textures/equipment/ship/weapon/Basic_energy.png",
+    "stats": {
+      "attack.base": 1.5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:weapon_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

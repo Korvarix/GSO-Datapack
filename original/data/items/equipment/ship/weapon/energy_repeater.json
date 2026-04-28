@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:energy_repeater",
+    "displayName": "items.ship.original.weapon.energy_repeater",
+    "description": "items.ship.original.weapon.energy_repeater.desc",
+    "texture": "original/assets/textures/equipment/ship/weapon/energy_repeater.png",
+    "stats": {
+      "attack.base": 2.5,
+      "attack.chance": 0.5,
+      "penetration.base": 1
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:weapon_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:energy_cannon",
+    "displayName": "items.ship.original.weapon.energy_cannon",
+    "description": "items.ship.original.weapon.energy_cannon.desc",
+    "texture": "original/assets/textures/equipment/ship/weapon/energy_cannon.png",
+    "stats": {
+      "attack.base": 2.5,
+      "attack.chance": 0.5,
+      "penetration.base": 5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:weapon_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

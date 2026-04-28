@@ -1,0 +1,23 @@
+{
+  "plating": {
+    "id": "original:basic_ballistic",
+    "displayName": "items.ship.original.weapon.basic_ballistic",
+    "description": "items.ship.original.weapon.basic_ballistic.desc",
+    "texture": "original/assets/textures/equipment/ship/weapon/basic_ballistic.png",
+    "stats": {
+      "attack.base": 2,
+      "penetration.base": 0.5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:weapon_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
