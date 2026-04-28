@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:heavy_hull_c",
     "displayName": "items.ship.original.hull.heavy_hull_c",
     "description": "items.ship.original.hull.heavy_hull_c.desc",

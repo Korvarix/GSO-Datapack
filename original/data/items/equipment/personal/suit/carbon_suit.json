@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:carbon_suit",
     "displayName": "items.personal.original.suit.carbon_suit",
     "description": "items.personal.original.suit.carbon_suit.desc",

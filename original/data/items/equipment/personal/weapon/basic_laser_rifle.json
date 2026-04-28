@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:basic_laser_rifle",
     "displayName": "items.personal.original.weapon.basic_laser_rifle",
     "description": "items.personal.original.weapon.basic_laser_rifle.desc",

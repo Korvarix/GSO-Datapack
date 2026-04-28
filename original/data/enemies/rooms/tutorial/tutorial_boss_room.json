@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:tutorial/tutorial_boss_room",
     "displayName": "rooms.original.tutorial.tutorial_boss_room",
     "description": "rooms.original.tutorial.tutorial_boss_room.desc",

@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:backpack",
     "displayName": "items.personal.original.backpack.backpack",
     "description": "items.personal.original.backpack.backpack.desc",

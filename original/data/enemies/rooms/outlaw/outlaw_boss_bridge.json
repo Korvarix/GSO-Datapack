@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:outlaw/outlaw_boss_bridge",
     "displayName": "rooms.original.outlaw.outlaw_boss_bridge",
     "description": "rooms.original.outlaw.outlaw_boss_bridge.desc",

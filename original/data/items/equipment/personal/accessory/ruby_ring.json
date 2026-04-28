@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:ruby_ring",
     "displayName": "items.personal.original.accessory.ruby_ring",
     "description": "items.personal.original.accessory.ruby_ring.desc",

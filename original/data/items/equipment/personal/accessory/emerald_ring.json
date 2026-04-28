@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:emerald_ring",
     "displayName": "items.personal.original.accessory.emerald_ring",
     "description": "items.personal.original.accessory.emerald_ring.desc",

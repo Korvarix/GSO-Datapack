@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:energy_repeater",
     "displayName": "items.ship.original.weapon.energy_repeater",
     "description": "items.ship.original.weapon.energy_repeater.desc",

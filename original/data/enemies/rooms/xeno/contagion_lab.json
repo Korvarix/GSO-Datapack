@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:xeno/contagion_lab",
     "displayName": "rooms.original.xeno.contagion_lab",
     "description": "rooms.original.xeno.contagion_lab.desc",

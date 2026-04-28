@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:nano_boots",
     "displayName": "items.personal.original.boots.nano_boots",
     "description": "items.personal.original.boots.nano_boots.desc",

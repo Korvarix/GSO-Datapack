@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:xeno/xeno_control_outskirt",
     "displayName": "rooms.original.xeno.xeno_control_outskirt",
     "description": "rooms.original.xeno.xeno_control_outskirt.desc",

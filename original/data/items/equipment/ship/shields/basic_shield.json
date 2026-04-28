@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:basic_shield",
     "displayName": "items.ship.original.shields.basic_shield",
     "description": "items.ship.original.shields.basic_shield.desc",

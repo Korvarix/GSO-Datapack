@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:outlaw/outlaw_ambush_zone",
     "displayName": "rooms.original.outlaw.outlaw_ambush_zone",
     "description": "rooms.original.outlaw.outlaw_ambush_zone.desc",

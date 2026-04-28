@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:metallic_helmet",
     "displayName": "items.personal.original.helmet.metallic_helmet",
     "description": "items.personal.original.helmet.metallic_helmet.desc",

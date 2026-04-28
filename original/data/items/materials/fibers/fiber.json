@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:fiber",
+    "texture": "original/assets/textures/materials/fiber/fiber.png",
+    "displayName": "items.materials.original.fibers.fiber",
+    "description": "items.materials.original.fibers.fiber.desc",
+    "meta": {
+      "storeCategory": "original:materials",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

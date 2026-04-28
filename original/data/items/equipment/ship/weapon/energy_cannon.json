@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:energy_cannon",
     "displayName": "items.ship.original.weapon.energy_cannon",
     "description": "items.ship.original.weapon.energy_cannon.desc",

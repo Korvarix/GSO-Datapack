@@ -1,5 +1,5 @@
 {
-  "room": {
+  "rooms": {
     "id": "original:outlaw/loot_hallway",
     "displayName": "rooms.original.outlaw.loot_hallway",
     "description": "rooms.original.outlaw.loot_hallway.desc",

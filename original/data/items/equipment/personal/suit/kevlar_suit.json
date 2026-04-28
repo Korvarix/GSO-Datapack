@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:kevlar_suit",
     "displayName": "items.personal.original.suit.kevlar_suit",
     "description": "items.personal.original.suit.kevlar_suit.desc",

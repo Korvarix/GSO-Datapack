@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:pearl_earring",
     "displayName": "items.personal.original.accessory.pearl_earring",
     "description": "items.personal.original.accessory.pearl_earring.desc",

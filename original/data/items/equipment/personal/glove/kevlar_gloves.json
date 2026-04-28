@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:kevlar_gloves",
     "displayName": "items.personal.original.glove.kevlar_gloves",
     "description": "items.personal.original.glove.kevlar_gloves.desc",

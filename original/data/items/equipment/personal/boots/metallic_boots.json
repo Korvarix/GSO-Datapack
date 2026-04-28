@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:metallic_boots",
     "displayName": "items.personal.original.boots.metallic_boots",
     "description": "items.personal.original.boots.metallic_boots.desc",

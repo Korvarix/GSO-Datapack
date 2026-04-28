@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:thruster_b",
     "displayName": "items.ship.original.thruster.thruster_b",
     "description": "items.ship.original.thruster.thruster_b.desc",

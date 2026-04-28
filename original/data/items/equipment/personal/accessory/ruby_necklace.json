@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:ruby_necklace",
     "displayName": "items.personal.original.accessory.ruby_necklace",
     "description": "items.personal.original.accessory.ruby_necklace.desc",

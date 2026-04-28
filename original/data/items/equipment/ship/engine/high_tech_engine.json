@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:high_tech_engine",
     "displayName": "items.ship.original.engine.high_tech_engine",
     "description": "items.ship.original.engine.high_tech_engine.desc",

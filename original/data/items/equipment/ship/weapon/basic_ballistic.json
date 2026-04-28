@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:basic_ballistic",
     "displayName": "items.ship.original.weapon.basic_ballistic",
     "description": "items.ship.original.weapon.basic_ballistic.desc",

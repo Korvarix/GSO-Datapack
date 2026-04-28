@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:aramid_fiber",
+    "texture": "original/assets/textures/materials/composite/aramid_fiber.png",
+    "displayName": "items.materials.original.composites.aramid_fiber",
+    "description": "items.materials.original.composites.aramid_fiber.desc",
+    "meta": {
+      "storeCategory": "original:materials",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

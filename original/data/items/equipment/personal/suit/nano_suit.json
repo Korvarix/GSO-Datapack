@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:nano_suit",
     "displayName": "items.personal.original.suit.nano_suit",
     "description": "items.personal.original.suit.nano_suit.desc",

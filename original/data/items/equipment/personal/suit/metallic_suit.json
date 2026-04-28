@@ -1,5 +1,5 @@
 {
-  "plating": {
+  "materials": {
     "id": "original:metallic_suit",
     "displayName": "items.personal.original.suit.metallic_suit",
     "description": "items.personal.original.suit.metallic_suit.desc",
