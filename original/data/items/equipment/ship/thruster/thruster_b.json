@@ -1,0 +1,28 @@
+{
+  "plating": {
+    "id": "original:thruster_b",
+    "displayName": "items.ship.original.thruster.thruster_b",
+    "description": "items.ship.original.thruster.thruster_b.desc",
+    "texture": "mypack/assets/textures/equipment/ship/weapons/basic_ship_weapon.png",
+    "stats": {
+      "defence.base": 2,
+      "health": 15
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": [
+        "original:ship_thruster_1",
+        "original:ship_thruster_2",
+        "original:ship_thruster_3",
+        "original:ship_thruster_4"
+      ],
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
