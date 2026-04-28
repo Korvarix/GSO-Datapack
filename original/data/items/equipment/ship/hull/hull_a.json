@@ -1,0 +1,26 @@
+{
+  "plating": {
+    "id": "original:hull_a",
+    "displayName": "items.ship.original.hull.hull_a",
+    "description": "items.ship.original.hull.hull_a.desc",
+    "texture": "original/assets/textures/equipment/ship/hull/hull_a.png",
+    "stats": {
+      "defence.base": 1,
+      "health": 15,
+      "resistance.gamma": 0.5,
+      "resistance.ion": 0.5,
+      "resistance.plasma": 0.5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:hull_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
