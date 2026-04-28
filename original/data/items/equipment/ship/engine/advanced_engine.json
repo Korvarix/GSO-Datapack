@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:advanced_engine",
+    "displayName": "items.ship.original.engine.advanced_engine",
+    "description": "items.ship.original.engine.advanced_engine.desc",
+    "texture": "original/assets/textures/equipment/ship/engine/advanced_engine.png",
+    "stats": {
+      "defence.base": 1.5,
+      "health": 25,
+      "resistance.heat": 1.5
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:engine_1",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
