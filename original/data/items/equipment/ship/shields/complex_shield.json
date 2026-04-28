@@ -1,0 +1,24 @@
+{
+  "plating": {
+    "id": "original:complex_shield",
+    "displayName": "items.ship.original.shields.complex_shield",
+    "description": "items.ship.original.shields.complex_shield.desc",
+    "texture": "original/assets/textures/equipment/ship/shields/complex_shield.png",
+    "stats": {
+      "defence.base": 1.5,
+      "health": 25,
+      "reflect.base": 2
+    },
+    "meta": {
+      "rarity": "common",
+      "equipmentSlot": "original:shields",
+      "storeCategory": "original:ship_equipment",
+      "dungeon": "space",
+      "storePrice": 100,
+      "storeSellValue": 25,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
