@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_platinum",
+    "texture": "original/assets/textures/materials/ingot/ingot_platinum.png",
+    "displayName": "items.materials.original.ingots.ingot_platinum",
+    "description": "items.materials.original.ingots.ingot_platinum.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

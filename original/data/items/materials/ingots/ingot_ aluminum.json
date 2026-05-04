@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_aluminum",
+    "texture": "original/assets/textures/materials/ingot/aluminum.png",
+    "displayName": "items.materials.original.ingots.aluminum",
+    "description": "items.materials.original.ingots.aluminum.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

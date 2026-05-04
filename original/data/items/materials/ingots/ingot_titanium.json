@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_titanium",
+    "texture": "original/assets/textures/materials/ingot/ingot_titanium.png",
+    "displayName": "items.materials.original.ingots.ingot_titanium",
+    "description": "items.materials.original.ingots.ingot_titanium.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

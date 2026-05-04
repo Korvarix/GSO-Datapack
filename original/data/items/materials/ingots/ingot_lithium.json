@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_lithium",
+    "texture": "original/assets/textures/materials/ingot/ingot_lithium.png",
+    "displayName": "items.materials.original.ingots.ingot_lithium",
+    "description": "items.materials.original.ingots.ingot_lithium.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

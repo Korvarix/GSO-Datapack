@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_zinc",
+    "texture": "original/assets/textures/materials/ingot/ingot_zinc.png",
+    "displayName": "items.materials.original.ingots.ingot_zinc",
+    "description": "items.materials.original.ingots.ingot_zinc.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

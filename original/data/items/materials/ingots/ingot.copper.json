@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_copper",
+    "texture": "original/assets/textures/materials/ingot/copper_ingot.png",
+    "displayName": "items.materials.original.ingots.copper_ingot",
+    "description": "items.materials.original.ingots.copper_ingot.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}

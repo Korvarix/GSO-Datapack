@@ -1,0 +1,16 @@
+{
+  "materials": {
+    "id": "original:ingot_manganese",
+    "texture": "original/assets/textures/materials/ingot/ingot_manganese.png",
+    "displayName": "items.materials.original.ingots.ingot_manganese",
+    "description": "items.materials.original.ingots.ingot_manganese.desc",
+    "meta": {
+      "storeCategory": "original:ingots",
+      "storePrice": 50,
+      "storeSellValue": 10,
+      "storeShowWeight": 10,
+      "storeFeaturedDiscountPercentage": 0,
+      "storeFeaturedShowWeight": 10
+    }
+  }
+}
